@@ -8,9 +8,7 @@
     },
     "pkgs": [
         "jackett",
-        "libiconv",
-        "mono",
-        "ca_root_nss"
+        "libiconv"
     ],
     "packagesite": "http://pkg.FreeBSD.org/${ABI}/latest",
     "fingerprints": {
